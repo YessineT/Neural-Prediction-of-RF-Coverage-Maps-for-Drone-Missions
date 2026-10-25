@@ -1,0 +1,27 @@
+{
+  "SEED": 2026,
+  "AREA_SIDE": 100.0,
+  "GRID_STEP": 1.0,
+  "TERRAIN_AMPLITUDE": 3.0,
+  "TERRAIN_SCALE": 25.0,
+  "BUILDING_CENTER": [
+    0.0,
+    0.0
+  ],
+  "BUILDING_FOOTPRINT": [
+    30.0,
+    20.0
+  ],
+  "BUILDING_HEIGHT": 15.0,
+  "SOURCE_DENSITY": 0.15,
+  "MIN_SOURCES": 1000,
+  "SOURCE_HEIGHT_AGL": [
+    1.0,
+    10.0
+  ],
+  "EDGE_MARGIN": 5.0,
+  "BUILDING_MARGIN": 2.0,
+  "GROUND_MATERIAL": "medium_dry_ground",
+  "BUILDING_MATERIAL": "concrete",
+  "NUM_SOURCES": 1074
+}

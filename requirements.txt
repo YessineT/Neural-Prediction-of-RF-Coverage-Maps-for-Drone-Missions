@@ -1,0 +1,6 @@
+numpy
+matplotlib
+plotly
+nbformat
+jupyter
+sionna-rt
