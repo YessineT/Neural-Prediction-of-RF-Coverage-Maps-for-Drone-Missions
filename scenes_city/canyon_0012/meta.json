@@ -1,0 +1,17 @@
+{
+  "name": "canyon_0012",
+  "family": "canyon",
+  "num_buildings": 3,
+  "num_parts": 3,
+  "built_fraction": 0.11102294921875,
+  "max_height": 40.40986892670019,
+  "mean_building_height": 33.03819541211697,
+  "num_stations": 24,
+  "layout": {
+    "theta": 1.8373242918279795,
+    "rows": 4,
+    "street": 17.25603162827275,
+    "depth": 16.018912617371193
+  },
+  "terrain": {}
+}

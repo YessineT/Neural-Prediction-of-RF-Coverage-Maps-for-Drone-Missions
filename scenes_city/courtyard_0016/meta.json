@@ -1,0 +1,16 @@
+{
+  "name": "courtyard_0016",
+  "family": "courtyard",
+  "num_buildings": 2,
+  "num_parts": 8,
+  "built_fraction": 0.10931396484375,
+  "max_height": 37.600028502573494,
+  "mean_building_height": 33.590590777714226,
+  "num_stations": 24,
+  "layout": {
+    "theta": 1.013982524716196,
+    "size": 35.00423787295119,
+    "thickness": 9.250019160890009
+  },
+  "terrain": {}
+}

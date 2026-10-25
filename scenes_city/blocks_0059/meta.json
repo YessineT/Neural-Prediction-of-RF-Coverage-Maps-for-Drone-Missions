@@ -1,0 +1,15 @@
+{
+  "name": "blocks_0059",
+  "family": "blocks",
+  "num_buildings": 17,
+  "num_parts": 17,
+  "built_fraction": 0.2166748046875,
+  "max_height": 37.57785988532318,
+  "mean_building_height": 18.05563571404404,
+  "num_stations": 24,
+  "layout": {
+    "coverage_target": 0.253744644652404,
+    "theta": 0.7692883015379516
+  },
+  "terrain": {}
+}

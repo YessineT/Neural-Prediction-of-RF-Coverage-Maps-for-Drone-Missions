@@ -1,0 +1,18 @@
+{
+  "name": "hilly_0010",
+  "family": "hilly",
+  "num_buildings": 5,
+  "num_parts": 5,
+  "built_fraction": 0.09112548828125,
+  "max_height": 49.39902994165004,
+  "mean_building_height": 25.750414820056736,
+  "num_stations": 24,
+  "layout": {
+    "coverage_target": 0.0823764636919956,
+    "theta": 0.2988433787717014
+  },
+  "terrain": {
+    "amplitude": 4.762212703079671,
+    "scale": 18.697094903247557
+  }
+}

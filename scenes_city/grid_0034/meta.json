@@ -1,0 +1,19 @@
+{
+  "name": "grid_0034",
+  "family": "grid",
+  "num_buildings": 9,
+  "num_parts": 12,
+  "built_fraction": 0.277587890625,
+  "max_height": 53.3182766349527,
+  "mean_building_height": 28.812337080374302,
+  "num_stations": 24,
+  "layout": {
+    "street": 9.199691712179774,
+    "block": [
+      38.31351165491628,
+      35.51427718884295
+    ],
+    "theta": -0.1700135564744082
+  },
+  "terrain": {}
+}

@@ -1,0 +1,21 @@
+{
+  "name": "downtown_0065",
+  "family": "downtown",
+  "num_buildings": 17,
+  "num_parts": 17,
+  "built_fraction": 0.21356201171875,
+  "max_height": 55.0,
+  "mean_building_height": 26.251202312075385,
+  "num_stations": 24,
+  "layout": {
+    "coverage_target": 0.42542898551383335,
+    "theta": 0.36436977854729846,
+    "centre": [
+      -17.0629725955538,
+      -20.654454818743673
+    ],
+    "h_max": 52.16301426975427,
+    "sigma": 44.55431202503479
+  },
+  "terrain": {}
+}
