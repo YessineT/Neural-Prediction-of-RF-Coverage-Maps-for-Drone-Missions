@@ -1,2 +1,7 @@
 .venv
 __pycache__
+dataset/
+legacy/
+.ipynb_checkpoints/
+.claude
+dataset_card.md
