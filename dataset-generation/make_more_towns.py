@@ -8,6 +8,9 @@ Put this file in dataset-generation/ (next to generate_city_scenes.py) and run:
 Defaults = Mahdi's share: towns 150-299 (blocks, grid, downtown) and 30-59 (canyon, courtyard, hilly),
 written to dataset-generation/scenes_city_mahdi/ (index.json, config.json, overview.png included),
 so check_city_scenes.py and make_dataset.py work on it with  --scenes scenes_city_mahdi
+
+Sami's share : towns 300-449 (blocks, grid, downtown) and 60-89 (canyon, courtyard, hilly)
+In order to generate the scenes, you need to run python make_more_towns.py --id-start 300 --id-count 150 --ood-start 60 --ood-count 30 --out scenes_city_sami
 """
 import argparse
 import json
