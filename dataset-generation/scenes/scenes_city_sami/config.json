@@ -1,0 +1,84 @@
+{
+  "BASE_SEED": 2026,
+  "AREA_SIDE": 128.0,
+  "CELL": 1.0,
+  "SUPERSAMPLE": 4,
+  "HEIGHT_RANGE": [
+    6.0,
+    55.0
+  ],
+  "MIN_GAP": 3.0,
+  "MIN_LOT_SIDE": 8.0,
+  "MIN_COURTYARD": 8.0,
+  "HEIGHT_MERGE": 1.0,
+  "DRONE_ALTITUDES": [
+    15.0,
+    30.0,
+    45.0,
+    60.0
+  ],
+  "ROOF_CLEARANCE": 1.0,
+  "PLANE_CLEARANCE": 5.0,
+  "N_STATIONS": 24,
+  "STATION_HEIGHT_AGL": [
+    1.0,
+    10.0
+  ],
+  "STATION_MIN_SPACING": 5.0,
+  "EDGE_MARGIN": 5.0,
+  "BUILDING_MARGIN": 2.0,
+  "OPEN_DISTANCE": 10.0,
+  "STATION_CLASSES": [
+    "open",
+    "street",
+    "courtyard"
+  ],
+  "GROUND_MATERIAL": "medium_dry_ground",
+  "BUILDING_MATERIAL": "concrete",
+  "SCATTERING_COEFFICIENT": 0.3,
+  "MIN_BUILDINGS": {
+    "blocks": 3,
+    "grid": 3,
+    "downtown": 3,
+    "canyon": 4,
+    "courtyard": 1,
+    "hilly": 3
+  },
+  "ID_FAMILIES": [
+    "blocks",
+    "grid",
+    "downtown"
+  ],
+  "OOD_FAMILIES": [
+    "canyon",
+    "courtyard",
+    "hilly"
+  ],
+  "ID_SPLIT": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "HALF": 64.0,
+  "N_CELLS": 128,
+  "SNAP_DIGITS": 5,
+  "CELL_CENTRE_CLEARANCE": 0.001,
+  "NUDGE_RADII": [
+    0.002,
+    0.004,
+    0.008,
+    0.012,
+    0.02
+  ],
+  "GAP_SLACK": 0.05,
+  "BORDER_MARGIN": 1.0,
+  "SEED": 2026,
+  "ID_RANGE": [
+    300,
+    449
+  ],
+  "OOD_RANGE": [
+    60,
+    89
+  ]
+}

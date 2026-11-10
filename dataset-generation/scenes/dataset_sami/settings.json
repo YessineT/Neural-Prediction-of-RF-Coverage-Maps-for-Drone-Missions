@@ -1,0 +1,30 @@
+{
+  "scenes": "scenes_city_sami",
+  "out": "dataset_sami",
+  "splits": [
+    "train",
+    "val",
+    "test",
+    "ood"
+  ],
+  "stations": 3,
+  "altitudes": [
+    15.0,
+    30.0,
+    45.0,
+    60.0
+  ],
+  "samples": 100000000,
+  "max_depth": 8,
+  "side": 128.0,
+  "diffraction": true,
+  "diffuse": true,
+  "max_scenes": 0,
+  "seed": 2026,
+  "overwrite": false,
+  "merge_only": false,
+  "ignore_checks": false,
+  "frequency": 2400000000.0,
+  "floor_db": -150.0,
+  "cell": 1.0
+}

@@ -1,0 +1,7022 @@
+[
+ {
+  "name": "blocks_0150",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.277,
+  "max_height": 39.3,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0151",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.129,
+  "max_height": 39.5,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0152",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.274,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0153",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.275,
+  "max_height": 41.2,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0154",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.104,
+  "max_height": 33.5,
+  "station_classes": {
+   "open": 15,
+   "street": 9,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0155",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.258,
+  "max_height": 27.1,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0156",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.22,
+  "max_height": 31.4,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0157",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.267,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0158",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.187,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0159",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.123,
+  "max_height": 34.9,
+  "station_classes": {
+   "open": 17,
+   "street": 7,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0160",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.305,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0161",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.255,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0162",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.321,
+  "max_height": 36.8,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0163",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.288,
+  "max_height": 28.8,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0164",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.131,
+  "max_height": 47.0,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0165",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.201,
+  "max_height": 33.6,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0166",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.264,
+  "max_height": 34.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0167",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.124,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0168",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.292,
+  "max_height": 41.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0169",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.323,
+  "max_height": 36.7,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0170",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 5,
+  "built_fraction": 0.097,
+  "max_height": 37.2,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0171",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.122,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0172",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.206,
+  "max_height": 33.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0173",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.262,
+  "max_height": 34.4,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0174",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.137,
+  "max_height": 25.2,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0175",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.304,
+  "max_height": 35.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0176",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.151,
+  "max_height": 42.5,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0177",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.299,
+  "max_height": 54.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0178",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.266,
+  "max_height": 39.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0179",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.136,
+  "max_height": 53.9,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0180",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.319,
+  "max_height": 33.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0181",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 5,
+  "built_fraction": 0.098,
+  "max_height": 17.4,
+  "station_classes": {
+   "open": 21,
+   "street": 3,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0182",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.304,
+  "max_height": 47.4,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0183",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.197,
+  "max_height": 26.2,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0184",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.245,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0185",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.179,
+  "max_height": 36.3,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0186",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.195,
+  "max_height": 53.0,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0187",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.301,
+  "max_height": 43.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0188",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.303,
+  "max_height": 34.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0189",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.235,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0190",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.164,
+  "max_height": 28.4,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0191",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.139,
+  "max_height": 16.6,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0192",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.311,
+  "max_height": 31.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0193",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.243,
+  "max_height": 36.6,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0194",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 5,
+  "built_fraction": 0.099,
+  "max_height": 32.9,
+  "station_classes": {
+   "open": 19,
+   "street": 5,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0195",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 4,
+  "built_fraction": 0.122,
+  "max_height": 19.9,
+  "station_classes": {
+   "open": 21,
+   "street": 3,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0196",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.151,
+  "max_height": 24.9,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0197",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.259,
+  "max_height": 41.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0198",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.264,
+  "max_height": 31.1,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0199",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.277,
+  "max_height": 34.8,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0200",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.17,
+  "max_height": 16.0,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0201",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.145,
+  "max_height": 27.4,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0202",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.239,
+  "max_height": 34.6,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0203",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.284,
+  "max_height": 39.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0204",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.197,
+  "max_height": 24.3,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0205",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.137,
+  "max_height": 25.0,
+  "station_classes": {
+   "open": 15,
+   "street": 9,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0206",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.264,
+  "max_height": 32.1,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0207",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.156,
+  "max_height": 31.1,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0208",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.128,
+  "max_height": 26.7,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0209",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.133,
+  "max_height": 36.6,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0210",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.172,
+  "max_height": 31.6,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0211",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.33,
+  "max_height": 46.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0212",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.11,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0213",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.259,
+  "max_height": 35.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0214",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.228,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0215",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.326,
+  "max_height": 50.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0216",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.31,
+  "max_height": 22.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0217",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.303,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0218",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.2,
+  "max_height": 48.2,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0219",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.13,
+  "max_height": 33.6,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0220",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.262,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0221",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.301,
+  "max_height": 52.9,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0222",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.314,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0223",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.27,
+  "max_height": 53.1,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0224",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.293,
+  "max_height": 41.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0225",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.322,
+  "max_height": 37.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0226",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.198,
+  "max_height": 23.4,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0227",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.193,
+  "max_height": 36.4,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0228",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 5,
+  "built_fraction": 0.122,
+  "max_height": 25.4,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0229",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.325,
+  "max_height": 46.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0230",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.207,
+  "max_height": 35.1,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0231",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.257,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0232",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 4,
+  "built_fraction": 0.111,
+  "max_height": 25.9,
+  "station_classes": {
+   "open": 20,
+   "street": 4,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0233",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.198,
+  "max_height": 41.7,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0234",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.188,
+  "max_height": 35.6,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0235",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.3,
+  "max_height": 47.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0236",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.124,
+  "max_height": 21.9,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0237",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.311,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0238",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.104,
+  "max_height": 22.5,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0239",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.106,
+  "max_height": 28.9,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0240",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.322,
+  "max_height": 32.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0241",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.126,
+  "max_height": 31.2,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0242",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.282,
+  "max_height": 43.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0243",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.229,
+  "max_height": 26.5,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0244",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.212,
+  "max_height": 43.4,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0245",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.164,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0246",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.247,
+  "max_height": 37.3,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0247",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.239,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0248",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.292,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0249",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.148,
+  "max_height": 42.5,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0250",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.266,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0251",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.21,
+  "max_height": 27.3,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0252",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.235,
+  "max_height": 40.5,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0253",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.146,
+  "max_height": 32.0,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0254",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.306,
+  "max_height": 37.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0255",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.151,
+  "max_height": 25.5,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0256",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.136,
+  "max_height": 41.3,
+  "station_classes": {
+   "open": 17,
+   "street": 7,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0257",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.206,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0258",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.276,
+  "max_height": 24.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0259",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.309,
+  "max_height": 49.3,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0260",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.147,
+  "max_height": 25.9,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0261",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.253,
+  "max_height": 50.4,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0262",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.189,
+  "max_height": 36.1,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0263",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.108,
+  "max_height": 36.9,
+  "station_classes": {
+   "open": 15,
+   "street": 9,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0264",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.181,
+  "max_height": 47.4,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0265",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.142,
+  "max_height": 37.5,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0266",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.303,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0267",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.298,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0268",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.298,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0269",
+  "family": "blocks",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.173,
+  "max_height": 53.3,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0270",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 11,
+  "built_fraction": 0.18,
+  "max_height": 21.3,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0271",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 7,
+  "built_fraction": 0.111,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0272",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 17,
+  "built_fraction": 0.322,
+  "max_height": 32.3,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0273",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 14,
+  "built_fraction": 0.226,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0274",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 7,
+  "built_fraction": 0.104,
+  "max_height": 23.1,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0275",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 11,
+  "built_fraction": 0.195,
+  "max_height": 35.9,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0276",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 6,
+  "built_fraction": 0.106,
+  "max_height": 16.5,
+  "station_classes": {
+   "open": 18,
+   "street": 6,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0277",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 12,
+  "built_fraction": 0.189,
+  "max_height": 31.8,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0278",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 18,
+  "built_fraction": 0.319,
+  "max_height": 41.4,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0279",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 24,
+  "built_fraction": 0.305,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0280",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 9,
+  "built_fraction": 0.164,
+  "max_height": 22.1,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0281",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 14,
+  "built_fraction": 0.221,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0282",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 9,
+  "built_fraction": 0.173,
+  "max_height": 35.7,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0283",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 6,
+  "built_fraction": 0.117,
+  "max_height": 20.7,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0284",
+  "family": "blocks",
+  "split": "val",
+  "num_buildings": 25,
+  "built_fraction": 0.27,
+  "max_height": 42.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0285",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 23,
+  "built_fraction": 0.323,
+  "max_height": 34.8,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0286",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 22,
+  "built_fraction": 0.304,
+  "max_height": 49.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0287",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 10,
+  "built_fraction": 0.181,
+  "max_height": 46.8,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0288",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 21,
+  "built_fraction": 0.299,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0289",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 13,
+  "built_fraction": 0.18,
+  "max_height": 31.5,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0290",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 15,
+  "built_fraction": 0.206,
+  "max_height": 50.6,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0291",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 22,
+  "built_fraction": 0.312,
+  "max_height": 53.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0292",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 25,
+  "built_fraction": 0.323,
+  "max_height": 37.5,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0293",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 7,
+  "built_fraction": 0.135,
+  "max_height": 33.4,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0294",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 7,
+  "built_fraction": 0.159,
+  "max_height": 18.9,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0295",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 19,
+  "built_fraction": 0.241,
+  "max_height": 43.9,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0296",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 23,
+  "built_fraction": 0.316,
+  "max_height": 50.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0297",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 13,
+  "built_fraction": 0.19,
+  "max_height": 46.7,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0298",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 8,
+  "built_fraction": 0.121,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 18,
+   "street": 6,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "blocks_0299",
+  "family": "blocks",
+  "split": "test",
+  "num_buildings": 18,
+  "built_fraction": 0.263,
+  "max_height": 39.9,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0150",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.439,
+  "max_height": 34.7,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0151",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.309,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0152",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.268,
+  "max_height": 35.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0153",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.418,
+  "max_height": 27.9,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0154",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.24,
+  "max_height": 39.7,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0155",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.383,
+  "max_height": 28.2,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0156",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.413,
+  "max_height": 47.8,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0157",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.283,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0158",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.338,
+  "max_height": 37.8,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0159",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.367,
+  "max_height": 34.7,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0160",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.265,
+  "max_height": 46.2,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0161",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.231,
+  "max_height": 47.1,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0162",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.248,
+  "max_height": 37.4,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0163",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.339,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0164",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.322,
+  "max_height": 28.3,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0165",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.274,
+  "max_height": 39.9,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0166",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.388,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0167",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.299,
+  "max_height": 26.7,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0168",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.319,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0169",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.3,
+  "max_height": 32.0,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0170",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 5,
+  "built_fraction": 0.392,
+  "max_height": 32.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0171",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.324,
+  "max_height": 37.3,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0172",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.331,
+  "max_height": 47.4,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0173",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.394,
+  "max_height": 32.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0174",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.374,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0175",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.466,
+  "max_height": 24.2,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0176",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.315,
+  "max_height": 27.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0177",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.373,
+  "max_height": 43.6,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0178",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.305,
+  "max_height": 50.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0179",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.345,
+  "max_height": 51.4,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0180",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.356,
+  "max_height": 34.2,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0181",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.35,
+  "max_height": 37.3,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0182",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.258,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0183",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.278,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0184",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.339,
+  "max_height": 52.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0185",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.295,
+  "max_height": 34.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0186",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.325,
+  "max_height": 33.3,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0187",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.359,
+  "max_height": 26.3,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0188",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.296,
+  "max_height": 31.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0189",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.305,
+  "max_height": 36.4,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0190",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.364,
+  "max_height": 32.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0191",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.258,
+  "max_height": 37.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0192",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.258,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0193",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.317,
+  "max_height": 26.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0194",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.18,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0195",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.302,
+  "max_height": 39.2,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0196",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.288,
+  "max_height": 31.7,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0197",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.332,
+  "max_height": 38.7,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0198",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.339,
+  "max_height": 40.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0199",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.326,
+  "max_height": 41.3,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0200",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.401,
+  "max_height": 34.7,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0201",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.275,
+  "max_height": 47.1,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0202",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.316,
+  "max_height": 34.6,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0203",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.313,
+  "max_height": 31.2,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0204",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.407,
+  "max_height": 32.6,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0205",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.279,
+  "max_height": 41.6,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0206",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.374,
+  "max_height": 51.2,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0207",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.255,
+  "max_height": 26.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0208",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.404,
+  "max_height": 33.8,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0209",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.367,
+  "max_height": 28.3,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0210",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.354,
+  "max_height": 34.1,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0211",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.294,
+  "max_height": 27.4,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0212",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.333,
+  "max_height": 31.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0213",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.252,
+  "max_height": 33.8,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0214",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.369,
+  "max_height": 35.7,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0215",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.244,
+  "max_height": 42.5,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0216",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.351,
+  "max_height": 34.3,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0217",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.276,
+  "max_height": 39.3,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0218",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.299,
+  "max_height": 36.2,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0219",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.269,
+  "max_height": 32.4,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0220",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.29,
+  "max_height": 33.6,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0221",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.242,
+  "max_height": 46.2,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0222",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 6,
+  "built_fraction": 0.383,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0223",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.406,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0224",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.281,
+  "max_height": 52.6,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0225",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.339,
+  "max_height": 25.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0226",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.373,
+  "max_height": 39.1,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0227",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.241,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0228",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.411,
+  "max_height": 26.7,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0229",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.278,
+  "max_height": 51.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0230",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.352,
+  "max_height": 28.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0231",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.312,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0232",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.384,
+  "max_height": 42.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0233",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.352,
+  "max_height": 38.4,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0234",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.193,
+  "max_height": 32.3,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0235",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.31,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0236",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.292,
+  "max_height": 52.7,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0237",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.353,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0238",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.244,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0239",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.324,
+  "max_height": 33.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0240",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.3,
+  "max_height": 42.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0241",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.29,
+  "max_height": 34.9,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0242",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.323,
+  "max_height": 27.8,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0243",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.29,
+  "max_height": 36.5,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0244",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.327,
+  "max_height": 34.4,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0245",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.266,
+  "max_height": 25.1,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0246",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.345,
+  "max_height": 37.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0247",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.28,
+  "max_height": 37.3,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0248",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.266,
+  "max_height": 53.2,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0249",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.282,
+  "max_height": 39.1,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0250",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.341,
+  "max_height": 21.3,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0251",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 8,
+  "built_fraction": 0.317,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0252",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.28,
+  "max_height": 37.7,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0253",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.296,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0254",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 9,
+  "built_fraction": 0.397,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0255",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.267,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0256",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.259,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0257",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.298,
+  "max_height": 49.5,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0258",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 7,
+  "built_fraction": 0.345,
+  "max_height": 40.1,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0259",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.286,
+  "max_height": 27.6,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0260",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 15,
+  "built_fraction": 0.334,
+  "max_height": 39.7,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0261",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.354,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0262",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.434,
+  "max_height": 23.3,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0263",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.325,
+  "max_height": 34.2,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0264",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.363,
+  "max_height": 24.1,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0265",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.352,
+  "max_height": 40.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0266",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.31,
+  "max_height": 38.8,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0267",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 12,
+  "built_fraction": 0.295,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0268",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 10,
+  "built_fraction": 0.243,
+  "max_height": 35.8,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0269",
+  "family": "grid",
+  "split": "train",
+  "num_buildings": 11,
+  "built_fraction": 0.386,
+  "max_height": 24.4,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0270",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 13,
+  "built_fraction": 0.304,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0271",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 14,
+  "built_fraction": 0.287,
+  "max_height": 37.6,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0272",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 9,
+  "built_fraction": 0.311,
+  "max_height": 42.3,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0273",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 9,
+  "built_fraction": 0.268,
+  "max_height": 40.5,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0274",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 16,
+  "built_fraction": 0.292,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0275",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 14,
+  "built_fraction": 0.406,
+  "max_height": 40.2,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0276",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 19,
+  "built_fraction": 0.315,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0277",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 14,
+  "built_fraction": 0.326,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0278",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 14,
+  "built_fraction": 0.316,
+  "max_height": 42.8,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0279",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 16,
+  "built_fraction": 0.481,
+  "max_height": 26.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0280",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 13,
+  "built_fraction": 0.345,
+  "max_height": 26.9,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0281",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 11,
+  "built_fraction": 0.379,
+  "max_height": 38.6,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0282",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 22,
+  "built_fraction": 0.259,
+  "max_height": 37.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0283",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 8,
+  "built_fraction": 0.305,
+  "max_height": 19.5,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0284",
+  "family": "grid",
+  "split": "val",
+  "num_buildings": 17,
+  "built_fraction": 0.404,
+  "max_height": 51.5,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0285",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 11,
+  "built_fraction": 0.303,
+  "max_height": 28.9,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0286",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 14,
+  "built_fraction": 0.406,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0287",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 15,
+  "built_fraction": 0.336,
+  "max_height": 53.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0288",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 7,
+  "built_fraction": 0.383,
+  "max_height": 48.4,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0289",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 16,
+  "built_fraction": 0.33,
+  "max_height": 25.2,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0290",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 17,
+  "built_fraction": 0.304,
+  "max_height": 32.2,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0291",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 15,
+  "built_fraction": 0.285,
+  "max_height": 35.3,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0292",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 17,
+  "built_fraction": 0.281,
+  "max_height": 42.8,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0293",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 17,
+  "built_fraction": 0.268,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0294",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 18,
+  "built_fraction": 0.366,
+  "max_height": 32.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0295",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 16,
+  "built_fraction": 0.327,
+  "max_height": 36.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0296",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 12,
+  "built_fraction": 0.318,
+  "max_height": 46.5,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0297",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 12,
+  "built_fraction": 0.285,
+  "max_height": 40.0,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0298",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 12,
+  "built_fraction": 0.255,
+  "max_height": 49.9,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "grid_0299",
+  "family": "grid",
+  "split": "test",
+  "num_buildings": 12,
+  "built_fraction": 0.329,
+  "max_height": 34.8,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0150",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.282,
+  "max_height": 28.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0151",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.31,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0152",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.338,
+  "max_height": 33.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0153",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.364,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0154",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 28,
+  "built_fraction": 0.307,
+  "max_height": 39.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0155",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.325,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0156",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.339,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0157",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.31,
+  "max_height": 39.9,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0158",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.286,
+  "max_height": 34.9,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0159",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.296,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0160",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.316,
+  "max_height": 33.4,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0161",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.295,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0162",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.3,
+  "max_height": 46.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0163",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.284,
+  "max_height": 38.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0164",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 29,
+  "built_fraction": 0.318,
+  "max_height": 47.8,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0165",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 16,
+  "built_fraction": 0.26,
+  "max_height": 23.7,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0166",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.307,
+  "max_height": 35.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0167",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.316,
+  "max_height": 38.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0168",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.311,
+  "max_height": 32.5,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0169",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.309,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0170",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.338,
+  "max_height": 37.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0171",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.322,
+  "max_height": 28.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0172",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.306,
+  "max_height": 33.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0173",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.281,
+  "max_height": 51.3,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0174",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.332,
+  "max_height": 47.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0175",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.321,
+  "max_height": 47.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0176",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.298,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0177",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.321,
+  "max_height": 38.4,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0178",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.319,
+  "max_height": 42.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0179",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.342,
+  "max_height": 46.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0180",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 28,
+  "built_fraction": 0.343,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0181",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.312,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0182",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.36,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0183",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.326,
+  "max_height": 47.1,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0184",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.357,
+  "max_height": 41.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0185",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.364,
+  "max_height": 28.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0186",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.412,
+  "max_height": 33.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0187",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.338,
+  "max_height": 26.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0188",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.293,
+  "max_height": 51.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0189",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.307,
+  "max_height": 33.8,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0190",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.333,
+  "max_height": 37.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0191",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.311,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0192",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.353,
+  "max_height": 52.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0193",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.327,
+  "max_height": 32.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0194",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.318,
+  "max_height": 47.4,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0195",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.311,
+  "max_height": 31.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0196",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.353,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0197",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.276,
+  "max_height": 25.1,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0198",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.319,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0199",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.318,
+  "max_height": 54.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0200",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.336,
+  "max_height": 40.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0201",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.274,
+  "max_height": 49.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0202",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 28,
+  "built_fraction": 0.312,
+  "max_height": 50.2,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0203",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.252,
+  "max_height": 43.5,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0204",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.35,
+  "max_height": 36.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0205",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.329,
+  "max_height": 33.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0206",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.335,
+  "max_height": 39.2,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0207",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.307,
+  "max_height": 36.3,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0208",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 29,
+  "built_fraction": 0.313,
+  "max_height": 52.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0209",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.282,
+  "max_height": 33.9,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0210",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.35,
+  "max_height": 52.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0211",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.328,
+  "max_height": 38.5,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0212",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.297,
+  "max_height": 42.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0213",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 14,
+  "built_fraction": 0.3,
+  "max_height": 31.5,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0214",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.343,
+  "max_height": 31.2,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0215",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.293,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0216",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.299,
+  "max_height": 36.7,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0217",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.302,
+  "max_height": 50.5,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0218",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.315,
+  "max_height": 36.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0219",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.313,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0220",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.285,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0221",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.35,
+  "max_height": 51.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0222",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.331,
+  "max_height": 53.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0223",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.309,
+  "max_height": 49.3,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0224",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.327,
+  "max_height": 40.4,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0225",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.337,
+  "max_height": 32.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0226",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.28,
+  "max_height": 19.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0227",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.379,
+  "max_height": 35.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0228",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.32,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0229",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 28,
+  "built_fraction": 0.318,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0230",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 26,
+  "built_fraction": 0.321,
+  "max_height": 26.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0231",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.334,
+  "max_height": 50.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0232",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.277,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0233",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.267,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0234",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 13,
+  "built_fraction": 0.257,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0235",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.309,
+  "max_height": 25.9,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0236",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.306,
+  "max_height": 36.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0237",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.295,
+  "max_height": 33.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0238",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.328,
+  "max_height": 40.8,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0239",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.332,
+  "max_height": 47.2,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0240",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.364,
+  "max_height": 43.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0241",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.313,
+  "max_height": 33.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0242",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.301,
+  "max_height": 53.5,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0243",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 18,
+  "built_fraction": 0.276,
+  "max_height": 46.9,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0244",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.348,
+  "max_height": 34.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0245",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.328,
+  "max_height": 54.5,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0246",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.309,
+  "max_height": 50.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0247",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.364,
+  "max_height": 37.7,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0248",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.266,
+  "max_height": 52.6,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0249",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.339,
+  "max_height": 48.7,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0250",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.287,
+  "max_height": 46.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0251",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.27,
+  "max_height": 50.3,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0252",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.317,
+  "max_height": 42.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0253",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 28,
+  "built_fraction": 0.339,
+  "max_height": 36.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0254",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.349,
+  "max_height": 47.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0255",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.317,
+  "max_height": 34.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0256",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.294,
+  "max_height": 39.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0257",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 23,
+  "built_fraction": 0.352,
+  "max_height": 46.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0258",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.27,
+  "max_height": 31.7,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0259",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 28,
+  "built_fraction": 0.319,
+  "max_height": 39.3,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0260",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.281,
+  "max_height": 46.3,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0261",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.334,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0262",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 25,
+  "built_fraction": 0.316,
+  "max_height": 31.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0263",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 20,
+  "built_fraction": 0.306,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0264",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 27,
+  "built_fraction": 0.309,
+  "max_height": 47.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0265",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 17,
+  "built_fraction": 0.278,
+  "max_height": 34.4,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0266",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 24,
+  "built_fraction": 0.353,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0267",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 22,
+  "built_fraction": 0.334,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0268",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 21,
+  "built_fraction": 0.351,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0269",
+  "family": "downtown",
+  "split": "train",
+  "num_buildings": 19,
+  "built_fraction": 0.27,
+  "max_height": 31.7,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0270",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 21,
+  "built_fraction": 0.302,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0271",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 27,
+  "built_fraction": 0.325,
+  "max_height": 54.3,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0272",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 27,
+  "built_fraction": 0.362,
+  "max_height": 39.1,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0273",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 24,
+  "built_fraction": 0.362,
+  "max_height": 39.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0274",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 27,
+  "built_fraction": 0.339,
+  "max_height": 39.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0275",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 21,
+  "built_fraction": 0.254,
+  "max_height": 24.6,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0276",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 15,
+  "built_fraction": 0.28,
+  "max_height": 36.3,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0277",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 25,
+  "built_fraction": 0.329,
+  "max_height": 32.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0278",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 24,
+  "built_fraction": 0.32,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0279",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 24,
+  "built_fraction": 0.286,
+  "max_height": 36.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0280",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 25,
+  "built_fraction": 0.368,
+  "max_height": 28.8,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0281",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 17,
+  "built_fraction": 0.258,
+  "max_height": 41.8,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0282",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 24,
+  "built_fraction": 0.32,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0283",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 18,
+  "built_fraction": 0.261,
+  "max_height": 37.9,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0284",
+  "family": "downtown",
+  "split": "val",
+  "num_buildings": 26,
+  "built_fraction": 0.315,
+  "max_height": 22.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0285",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 25,
+  "built_fraction": 0.32,
+  "max_height": 41.1,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0286",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 24,
+  "built_fraction": 0.313,
+  "max_height": 36.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0287",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 24,
+  "built_fraction": 0.368,
+  "max_height": 52.9,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0288",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 25,
+  "built_fraction": 0.324,
+  "max_height": 33.1,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0289",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 18,
+  "built_fraction": 0.297,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0290",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 23,
+  "built_fraction": 0.313,
+  "max_height": 47.4,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0291",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 23,
+  "built_fraction": 0.309,
+  "max_height": 53.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0292",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 22,
+  "built_fraction": 0.311,
+  "max_height": 22.2,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0293",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 21,
+  "built_fraction": 0.268,
+  "max_height": 37.5,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0294",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 27,
+  "built_fraction": 0.325,
+  "max_height": 55.0,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0295",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 17,
+  "built_fraction": 0.285,
+  "max_height": 36.6,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0296",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 27,
+  "built_fraction": 0.298,
+  "max_height": 49.2,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0297",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 22,
+  "built_fraction": 0.324,
+  "max_height": 32.6,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0298",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 24,
+  "built_fraction": 0.281,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "downtown_0299",
+  "family": "downtown",
+  "split": "test",
+  "num_buildings": 24,
+  "built_fraction": 0.317,
+  "max_height": 48.5,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0030",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 7,
+  "built_fraction": 0.235,
+  "max_height": 24.7,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0031",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.226,
+  "max_height": 44.0,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0032",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 8,
+  "built_fraction": 0.215,
+  "max_height": 49.8,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0033",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.299,
+  "max_height": 52.5,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0034",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.447,
+  "max_height": 46.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0035",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.172,
+  "max_height": 31.2,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0036",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 7,
+  "built_fraction": 0.272,
+  "max_height": 16.4,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0037",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.157,
+  "max_height": 48.9,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0038",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 7,
+  "built_fraction": 0.283,
+  "max_height": 40.1,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0039",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.368,
+  "max_height": 51.8,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0040",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.283,
+  "max_height": 43.6,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0041",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 8,
+  "built_fraction": 0.354,
+  "max_height": 48.1,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0042",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 11,
+  "built_fraction": 0.344,
+  "max_height": 48.8,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0043",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.261,
+  "max_height": 18.6,
+  "station_classes": {
+   "open": 18,
+   "street": 6,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0044",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 8,
+  "built_fraction": 0.309,
+  "max_height": 46.2,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0045",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.257,
+  "max_height": 41.4,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0046",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.238,
+  "max_height": 42.3,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0047",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.229,
+  "max_height": 24.9,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0048",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.156,
+  "max_height": 43.1,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0049",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.199,
+  "max_height": 23.5,
+  "station_classes": {
+   "open": 17,
+   "street": 7,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0050",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.248,
+  "max_height": 26.5,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0051",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 4,
+  "built_fraction": 0.165,
+  "max_height": 47.9,
+  "station_classes": {
+   "open": 17,
+   "street": 7,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0052",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 7,
+  "built_fraction": 0.23,
+  "max_height": 32.2,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0053",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.182,
+  "max_height": 50.8,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0054",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 7,
+  "built_fraction": 0.332,
+  "max_height": 42.5,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0055",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.395,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0056",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.245,
+  "max_height": 37.9,
+  "station_classes": {
+   "open": 13,
+   "street": 11,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0057",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.131,
+  "max_height": 50.9,
+  "station_classes": {
+   "open": 15,
+   "street": 9,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0058",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.25,
+  "max_height": 41.3,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "canyon_0059",
+  "family": "canyon",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.373,
+  "max_height": 39.6,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0030",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 4,
+  "built_fraction": 0.297,
+  "max_height": 36.1,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0031",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.114,
+  "max_height": 22.9,
+  "station_classes": {
+   "open": 16,
+   "street": 6,
+   "courtyard": 2
+  }
+ },
+ {
+  "name": "courtyard_0032",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 4,
+  "built_fraction": 0.226,
+  "max_height": 34.2,
+  "station_classes": {
+   "open": 12,
+   "street": 12,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0033",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.093,
+  "max_height": 17.2,
+  "station_classes": {
+   "open": 22,
+   "street": 2,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0034",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.126,
+  "max_height": 25.6,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0035",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.092,
+  "max_height": 12.4,
+  "station_classes": {
+   "open": 19,
+   "street": 5,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0036",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.092,
+  "max_height": 17.6,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0037",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.2,
+  "max_height": 35.3,
+  "station_classes": {
+   "open": 16,
+   "street": 5,
+   "courtyard": 3
+  }
+ },
+ {
+  "name": "courtyard_0038",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.127,
+  "max_height": 34.9,
+  "station_classes": {
+   "open": 18,
+   "street": 6,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0039",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.071,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 20,
+   "street": 4,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0040",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.171,
+  "max_height": 35.5,
+  "station_classes": {
+   "open": 17,
+   "street": 6,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0041",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.068,
+  "max_height": 25.9,
+  "station_classes": {
+   "open": 20,
+   "street": 3,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0042",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.065,
+  "max_height": 14.0,
+  "station_classes": {
+   "open": 23,
+   "street": 1,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0043",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.124,
+  "max_height": 27.9,
+  "station_classes": {
+   "open": 19,
+   "street": 4,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0044",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.099,
+  "max_height": 38.6,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0045",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.138,
+  "max_height": 24.6,
+  "station_classes": {
+   "open": 16,
+   "street": 7,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0046",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.172,
+  "max_height": 39.5,
+  "station_classes": {
+   "open": 17,
+   "street": 6,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0047",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.109,
+  "max_height": 17.3,
+  "station_classes": {
+   "open": 16,
+   "street": 5,
+   "courtyard": 3
+  }
+ },
+ {
+  "name": "courtyard_0048",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.067,
+  "max_height": 17.2,
+  "station_classes": {
+   "open": 21,
+   "street": 3,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0049",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 4,
+  "built_fraction": 0.215,
+  "max_height": 35.6,
+  "station_classes": {
+   "open": 10,
+   "street": 13,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0050",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.146,
+  "max_height": 37.7,
+  "station_classes": {
+   "open": 19,
+   "street": 5,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0051",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.195,
+  "max_height": 20.8,
+  "station_classes": {
+   "open": 18,
+   "street": 5,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0052",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.08,
+  "max_height": 13.8,
+  "station_classes": {
+   "open": 21,
+   "street": 3,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0053",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.11,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 20,
+   "street": 4,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0054",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 4,
+  "built_fraction": 0.265,
+  "max_height": 27.2,
+  "station_classes": {
+   "open": 3,
+   "street": 20,
+   "courtyard": 1
+  }
+ },
+ {
+  "name": "courtyard_0055",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.117,
+  "max_height": 34.0,
+  "station_classes": {
+   "open": 18,
+   "street": 6,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0056",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.12,
+  "max_height": 27.6,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0057",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 4,
+  "built_fraction": 0.261,
+  "max_height": 24.2,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0058",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 1,
+  "built_fraction": 0.085,
+  "max_height": 35.2,
+  "station_classes": {
+   "open": 23,
+   "street": 1,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "courtyard_0059",
+  "family": "courtyard",
+  "split": "ood",
+  "num_buildings": 2,
+  "built_fraction": 0.122,
+  "max_height": 21.6,
+  "station_classes": {
+   "open": 19,
+   "street": 5,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0030",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.126,
+  "max_height": 32.9,
+  "station_classes": {
+   "open": 16,
+   "street": 8,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0031",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 23,
+  "built_fraction": 0.289,
+  "max_height": 45.8,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0032",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 19,
+  "built_fraction": 0.266,
+  "max_height": 46.5,
+  "station_classes": {
+   "open": 4,
+   "street": 20,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0033",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 21,
+  "built_fraction": 0.299,
+  "max_height": 46.5,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0034",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.178,
+  "max_height": 47.3,
+  "station_classes": {
+   "open": 9,
+   "street": 15,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0035",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.204,
+  "max_height": 43.9,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0036",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.129,
+  "max_height": 33.4,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0037",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.251,
+  "max_height": 44.7,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0038",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 9,
+  "built_fraction": 0.149,
+  "max_height": 25.6,
+  "station_classes": {
+   "open": 11,
+   "street": 13,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0039",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 22,
+  "built_fraction": 0.289,
+  "max_height": 29.6,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0040",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.221,
+  "max_height": 50.1,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0041",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 23,
+  "built_fraction": 0.289,
+  "max_height": 56.9,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0042",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.189,
+  "max_height": 29.0,
+  "station_classes": {
+   "open": 7,
+   "street": 17,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0043",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.18,
+  "max_height": 38.6,
+  "station_classes": {
+   "open": 2,
+   "street": 22,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0044",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 16,
+  "built_fraction": 0.276,
+  "max_height": 31.3,
+  "station_classes": {
+   "open": 1,
+   "street": 23,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0045",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 14,
+  "built_fraction": 0.196,
+  "max_height": 54.2,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0046",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.152,
+  "max_height": 25.7,
+  "station_classes": {
+   "open": 14,
+   "street": 10,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0047",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.237,
+  "max_height": 50.2,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0048",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 10,
+  "built_fraction": 0.207,
+  "max_height": 50.6,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0049",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.227,
+  "max_height": 29.6,
+  "station_classes": {
+   "open": 8,
+   "street": 16,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0050",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 19,
+  "built_fraction": 0.313,
+  "max_height": 38.8,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0051",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.114,
+  "max_height": 37.4,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0052",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 26,
+  "built_fraction": 0.313,
+  "max_height": 56.1,
+  "station_classes": {
+   "open": 0,
+   "street": 24,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0053",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 17,
+  "built_fraction": 0.271,
+  "max_height": 50.7,
+  "station_classes": {
+   "open": 3,
+   "street": 21,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0054",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 7,
+  "built_fraction": 0.122,
+  "max_height": 24.8,
+  "station_classes": {
+   "open": 18,
+   "street": 6,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0055",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 13,
+  "built_fraction": 0.276,
+  "max_height": 39.6,
+  "station_classes": {
+   "open": 5,
+   "street": 19,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0056",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 5,
+  "built_fraction": 0.123,
+  "max_height": 24.7,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0057",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 12,
+  "built_fraction": 0.192,
+  "max_height": 56.4,
+  "station_classes": {
+   "open": 6,
+   "street": 18,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0058",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 6,
+  "built_fraction": 0.125,
+  "max_height": 32.3,
+  "station_classes": {
+   "open": 17,
+   "street": 7,
+   "courtyard": 0
+  }
+ },
+ {
+  "name": "hilly_0059",
+  "family": "hilly",
+  "split": "ood",
+  "num_buildings": 12,
+  "built_fraction": 0.166,
+  "max_height": 40.9,
+  "station_classes": {
+   "open": 10,
+   "street": 14,
+   "courtyard": 0
+  }
+ }
+]
