@@ -22,6 +22,8 @@ Examples:
     python train_pmnet.py --pmnet-dir ./models --epochs 30 --augment --out runs/v3
     python train_pmnet.py --pmnet-dir ./models --epochs 20 --augment --floor-clip -120 --out runs/clip120
     python train_pmnet.py --pmnet-dir ./models --epochs 20 --augment --loss huber --huber-delta 10 --out runs/huber
+    python train_pmnet.py --pmnet-dir ./models --epochs 20 --augment --loss l1 --out runs/l1
+    python train_pmnet.py --pmnet-dir ./models --epochs 20 --augment --loss huber --huber-delta 10 --edge-weight 1.0 --out runs/huber_edge
     python train_pmnet.py --pmnet-dir ./models --eval-only runs/v3/best.pt --floor-clip -120   # clipped error of any model
     python train_pmnet.py --pmnet-dir ./models --bench 20 --amp               # speed and memory check, no training
     python train_pmnet.py --pmnet-dir ./models --eval-only runs/v3/best.pt
@@ -186,12 +188,42 @@ def masked_huber(pred, target, valid, delta):
     return (loss * v).sum() / v.sum().clamp(min=1)
 
 
+def masked_l1(pred, target, valid):
+    """Mean absolute error on valid cells: every mistake counts by its size."""
+    v = valid.float()
+    return ((pred - target).abs() * v).sum() / v.sum().clamp(min=1)
+
+
+def masked_edge_loss(pred, target, valid):
+    """Edge (gradient) loss: compares how the value changes from one cell to the next one, horizontally and vertically,
+    between prediction and target (mean SQUARED difference: an edge that is roughly right gets partial credit, which a
+    plain absolute difference does not give). It is large when the prediction is blurrier or sharper than the target.
+    Only pairs of neighbouring cells that are both valid count, so building walls are not edges."""
+    total = 0.0
+    for dim in (1, 2):                       # tensors are (batch, height, width): differences along y and along x
+        n = pred.shape[dim]
+        p0, p1 = pred.narrow(dim, 0, n - 1), pred.narrow(dim, 1, n - 1)
+        t0, t1 = target.narrow(dim, 0, n - 1), target.narrow(dim, 1, n - 1)
+        v = (valid.narrow(dim, 0, n - 1) & valid.narrow(dim, 1, n - 1)).float()
+        total = total + ((((p1 - p0) - (t1 - t0)) ** 2) * v).sum() / v.sum().clamp(min=1)
+    return total
+
+
 def make_loss(args):
-    """Training loss: mse (default) or huber with --huber-delta given in dB (1 unit of the 0..1 scale = 150 dB)."""
+    """Training loss = base loss (--loss mse | huber | l1) + --edge-weight times the edge loss (off when 0).
+    All on the 0..1 scale (1 unit = 150 dB), computed on valid cells only. --huber-delta is given in dB."""
     if args.loss == "huber":
         delta = args.huber_delta / RANGE_DB
-        return lambda pred, target, valid: masked_huber(pred, target, valid, delta)
-    return masked_mse
+
+        def base(pred, target, valid):
+            return masked_huber(pred, target, valid, delta)
+    elif args.loss == "l1":
+        base = masked_l1
+    else:
+        base = masked_mse
+    if args.edge_weight > 0:
+        return lambda pred, target, valid: base(pred, target, valid) + args.edge_weight * masked_edge_loss(pred, target, valid)
+    return base
 
 
 def clip_target(y, args):
@@ -378,7 +410,9 @@ def main():
     ap.add_argument("--floor-clip", type=float, default=None,
                     help="raise the floor of the TRAINING target to this value in dB (for example -120): cells below it count "
                          "as this value. Evaluation then also reports the error with prediction and truth clipped there.")
-    ap.add_argument("--loss", choices=["mse", "huber"], default="mse", help="training loss")
+    ap.add_argument("--loss", choices=["mse", "huber", "l1"], default="mse", help="training loss")
+    ap.add_argument("--edge-weight", type=float, default=0.0,
+                    help="weight of the edge (gradient) loss added to the chosen loss; 0 = off. A first value to try: 1.0")
     ap.add_argument("--huber-delta", type=float, default=10.0,
                     help="dB: errors below this are squared like MSE, larger errors only count linearly (--loss huber)")
     ap.add_argument("--max-train-maps", type=int, default=0, help="use only this many training maps (0 = all)")
@@ -472,7 +506,7 @@ def main():
         for epoch in range(start_epoch, args.epochs + 1):
             t0 = time.time()
             model.train()
-            tot, tot_mse, cnt = 0.0, 0.0, 0
+            tot, tot_mse, tot_edge, cnt = 0.0, 0.0, 0.0, 0
             n_steps = min(len(train_loader), args.steps_per_epoch) if args.steps_per_epoch else len(train_loader)
             for step, batch in enumerate(train_loader, 1):
                 x, y, v = to_device(batch, device)
@@ -487,6 +521,8 @@ def main():
                 opt.step()
                 tot += loss.item()
                 tot_mse += masked_mse(pred.detach().float().squeeze(1), y, v).item()    # plain MSE, only for the log
+                if args.edge_weight > 0:
+                    tot_edge += masked_edge_loss(pred.detach().float().squeeze(1), y, v).item()
                 cnt += 1
                 if step == 1 or step % args.log_every == 0:
                     per = (time.time() - t0) / step
@@ -504,7 +540,8 @@ def main():
                         f"{s['mae_db']:.3f}", f"{opt.param_groups[0]['lr']:.2e}", f"{time.time() - t0:.0f}", f"{sel:.3f}"])
             log.flush()
             clip_txt = f" (floor raised: {s['rmse_clip_db']:.2f} dB)" if "rmse_clip_db" in s else ""
-            print(f"epoch {epoch:3d}/{args.epochs}  train loss {train_loss:.6f} (train error ~{train_rmse:.2f} dB)  "
+            edge_txt = f", edge term {tot_edge / max(cnt, 1):.5f} x weight {args.edge_weight:g}" if args.edge_weight > 0 else ""
+            print(f"epoch {epoch:3d}/{args.epochs}  train loss {train_loss:.6f}{edge_txt} (train error ~{train_rmse:.2f} dB)  "
                   f"val RMSE {s['rmse_db']:.2f} dB{clip_txt}  MAE {s['mae_db']:.2f} dB  {time.time() - t0:.0f} s")
             improved = sel < best
             best = min(best, sel)
