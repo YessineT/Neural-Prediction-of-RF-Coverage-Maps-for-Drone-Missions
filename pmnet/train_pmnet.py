@@ -132,19 +132,24 @@ def load_pmnet_module(pmnet_dir, variant):
     return mod
 
 
-def build_model(pmnet_dir, variant, in_channels, bn_momentum, n_blocks=(3, 3, 27, 3)):
+def build_model(pmnet_dir, variant, in_channels, bn_momentum, n_blocks=(3, 3, 27, 3), width=None):
+    if width is not None or not pmnet_dir:
+        from pmnet_slim import PMNetSlim
+        return PMNetSlim(
+            n_blocks=list(n_blocks),
+            atrous_rates=[6, 12, 18],
+            multi_grids=[1, 2, 4],
+            output_stride=8 if variant == "v3" else 16,
+            in_channels=in_channels,
+            width=1.0 if width is None else width,
+            bn_momentum=bn_momentum,
+        )
     mod = load_pmnet_module(pmnet_dir, variant)
     model = mod.PMNet(n_blocks=list(n_blocks), atrous_rates=[6, 12, 18], multi_grids=[1, 2, 4],
-                      output_stride=8 if variant == "v3" else 16)       # exactly as train.py of PMNet
-    # PMNet has 2 input channels (map, transmitter). Replace the two layers that depend on that number:
-    #   - first convolution of the encoder
-    #   - first convolution of the last decoder block, which also receives the raw input image
-    # (the max pooling of the stem has kernel 2 and is not touched)
+                      output_stride=8 if variant == "v3" else 16)
     old = model.layer1.conv1.conv
     model.layer1.conv1.conv = nn.Conv2d(in_channels, old.out_channels, kernel_size=7, stride=2, padding=3, bias=False)
     model.conv_up00[0] = nn.Conv2d(128 + in_channels, 64, kernel_size=3, padding=1)
-    # PMNet uses a batch norm momentum of 0.001 (running statistics move very slowly); with short runs the statistics
-    # used at evaluation would lag behind, so the default here is the usual 0.1
     for m in model.modules():
         if isinstance(m, nn.modules.batchnorm._BatchNorm):
             m.momentum = bn_momentum
@@ -393,7 +398,8 @@ def main():
                                                "(default: download them from Hugging Face)")
     ap.add_argument("--hf-repo", default=HF_REPO, help="Hugging Face dataset repository")
     ap.add_argument("--cache-dir", default="", help="where Hugging Face files are cached (default: the usual cache)")
-    ap.add_argument("--pmnet-dir", required=True, help="folder of the PMNet clone that contains pmnet_v3.py")
+    ap.add_argument("--pmnet-dir", default="", help="folder of the PMNet clone (not needed when using pmnet_slim.py)")
+    ap.add_argument("--width", type=float, default=None, help="channel width multiplier via PMNetSlim (e.g. 0.5)")
     ap.add_argument("--variant", choices=["v1", "v3"], default="v3", help="v3: output stride 8, v1: output stride 16")
     ap.add_argument("--out", default="runs/pmnet")
     ap.add_argument("--epochs", type=int, default=30)
@@ -448,7 +454,7 @@ def main():
     in_ch = len(probe.channels)
     global CHANNELS_LAST
     CHANNELS_LAST = args.channels_last
-    model = build_model(args.pmnet_dir, args.variant, in_ch, args.bn_momentum, args.n_blocks).to(device)
+    model = build_model(args.pmnet_dir, args.variant, in_ch, args.bn_momentum, args.n_blocks, args.width).to(device)
     if args.channels_last:
         model = model.to(memory_format=torch.channels_last)
     n_par = sum(p.numel() for p in model.parameters())
